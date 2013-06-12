@@ -1,0 +1,1 @@
+Its A PHP based web admin panel that control looks & feel of website. and also offers serval features to admin to add/delete/modify or control the items of the portal.
